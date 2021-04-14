@@ -59,7 +59,7 @@ function appendDiv() {
     mar = mar2;
   }
 
-  ob.src = `/(${
+  ob.src = `./(${
     Math.floor(Math.random() * 9) + 1
   }).jpg`;
 
